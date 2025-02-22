@@ -30,8 +30,11 @@ print
 <pre><code>print</code></pre>
 ----
 <https://github.com>
-[GitHub]<https://github.com>
+
+[GitHub](https://github.com)
+
 <ljh137162@gmail.com>
+
 *hello*
 _bye_
 **HELLO**
