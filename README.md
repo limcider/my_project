@@ -33,12 +33,12 @@ print
 
 [GitHub](https://github.com)
 
-<ljh137162@gmail.com>
+<ljh137162@naver.com>
 
 *hello*
 _bye_
 **HELLO**
 __BYE__
-~~github~~
+~~gitgitgitgit~~
 
 ![Image](https://github.com/user-attachments/assets/4429285a-20b1-4501-aa45-8737cd77c387)
